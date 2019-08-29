@@ -3,3 +3,6 @@
 "
 print(hello_world);
 "
+*트
+*리
+*즈
